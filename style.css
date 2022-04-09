@@ -13,12 +13,12 @@ body{
 
 .hello-area{
     
-    height: 274px;
+    height: 528px;
 }
 
 .about-area{
     
-    height: 274px;
+    height: 530px;
 
 }
 
@@ -35,7 +35,7 @@ body{
 }
 
 .nav-bar{
-    width: 44%;
+    width: 22%;
    
     float: right;
    
@@ -76,7 +76,7 @@ body{
 .rob{
     color: tomato;
 }
-.hire{
+#hire-chat{
     color: aliceblue;
     background-color: tomato;
     margin: 7px;
@@ -118,6 +118,11 @@ body{
     color:#363958;
 
 }
+.latest-area{
+    
+   
+    height: 440px;
+}
 .latest-area h1{
     text-align: center;
 }
@@ -129,25 +134,28 @@ body{
 .lt-mg{
     width: 30%;
     float: left;
-    margin-left: 15px;
+    margin-left: 30px;
 }
 
 .lt-mg h2{
     color:#363958; 
+    text-align: center;
 }
 .lt-mg p{
-    color:#363958; }
+    color:#363958;
+text-align: center; }
 .lt-mg img{
     width: 100%;
 }
 
 .work-bc{
         margin-top: 15px;
-         height: 104px;
-         width: 639px;
+         height: 163px;
+         width: 1300px;
          background-image: url(images/Group_33094_1.png);
          background-repeat: no-repeat;
-         background-size: 639px 104px;
+         background-size: 1300px 163px;
+         margin-left: 20px;
         
 }
 
@@ -156,8 +164,8 @@ body{
 }
 #work{
     color: aliceblue;
-    margin-top: 34px;
-    margin-left: 25px;
+    margin-top: 68px;
+    margin-left: 32px;
     float: left;
 
    
@@ -167,13 +175,13 @@ body{
 #hire-chat{
    
   
-   background-color: tomato;
+   
     border-radius: 5px;
     padding: 5px;
     float: left;
     border-left: 20px;
-    margin-top: 33px;
-    margin-left: 318px;
+    margin-top: 66px;
+    margin-left: 905px;
 }
 #hire-chat a{
     text-decoration: none;
@@ -196,5 +204,5 @@ body{
 .icons{
     
     width: 30%;
-    margin-left: 278px;
+    margin-left: 620px;
 }
