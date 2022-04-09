@@ -85,6 +85,16 @@ body{
     border-radius: 5px;
 }
 
+.hire{
+    color: aliceblue;
+    background-color: tomato;
+   
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+
 .about-img{
     width: 40%;
     float: left;
