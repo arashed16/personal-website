@@ -1,0 +1,200 @@
+body{
+        font-family: 'Bebas Neue', cursive;
+    font-family: 'Roboto', sans-serif;
+}
+
+.nav-area{
+   
+    height: 31px;
+    
+
+}
+
+
+.hello-area{
+    
+    height: 274px;
+}
+
+.about-area{
+    
+    height: 274px;
+
+}
+
+.latest-area{
+   
+
+}
+
+.work-area{
+    
+}
+
+.footer-area{
+}
+
+.nav-bar{
+    width: 44%;
+   
+    float: right;
+   
+}
+.nav-bar a{
+    
+    text-decoration: none;
+    color:#363958;
+    margin: 5px;
+    padding: 5px;
+  
+}
+.hello-word{
+    width: 40%;
+    
+    float: left;
+   margin-left:26px;
+}
+.hello-word h1{
+    color:#363958;
+}
+
+.hello-word p{
+    color:#363958;
+}
+
+.hello-image{
+    width:40% ;
+   
+    float: left;
+    margin-left: 52px;
+}
+.hello-image img{
+    width: 100%;
+}
+
+
+.rob{
+    color: tomato;
+}
+.hire{
+    color: aliceblue;
+    background-color: tomato;
+    margin: 7px;
+    padding: 7px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.about-img{
+    width: 40%;
+    float: left;
+    margin-left: 20px;
+}
+.about-text{
+    width: 40%;
+   
+    float: left;
+    margin-left: 72px;
+}
+.about-text h2{
+    color:#363958;
+}
+.about-text p{
+    color:#363958;
+}
+.about-img img{
+    width: 100%;
+    
+    
+}
+.about-text p{
+   
+    margin-bottom: 15px;
+}
+.tatest{
+    color: tomato;
+}
+.latest-text h1{
+    color:#363958;
+
+}
+.latest-area h1{
+    text-align: center;
+}
+.latest-img{
+   
+    height: 236px;
+}
+
+.lt-mg{
+    width: 30%;
+    float: left;
+    margin-left: 15px;
+}
+
+.lt-mg h2{
+    color:#363958; 
+}
+.lt-mg p{
+    color:#363958; }
+.lt-mg img{
+    width: 100%;
+}
+
+.work-bc{
+        margin-top: 15px;
+         height: 104px;
+         width: 639px;
+         background-image: url(images/Group_33094_1.png);
+         background-repeat: no-repeat;
+         background-size: 639px 104px;
+        
+}
+
+.work-bc img{
+    width: 100%;
+}
+#work{
+    color: aliceblue;
+    margin-top: 34px;
+    margin-left: 25px;
+    float: left;
+
+   
+    
+}
+
+#hire-chat{
+   
+  
+   background-color: tomato;
+    border-radius: 5px;
+    padding: 5px;
+    float: left;
+    border-left: 20px;
+    margin-top: 33px;
+    margin-left: 318px;
+}
+#hire-chat a{
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.stay h3 {
+    text-align: center;
+    color:#363958; 
+}
+
+.stay h1{
+    text-align: center;
+    color:#363958; 
+}
+.icons img{
+    height: 20px;
+    width: 20px;
+}
+.icons{
+    
+    width: 30%;
+    margin-left: 278px;
+}
